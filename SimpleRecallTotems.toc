@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: SimpleRecallTotems
+## Notes: UI Button that recalls totems when clicked.
+## Author: Gonzo
+## Version: v0.5
+## SavedVariablesPerCharacter: SRT_SETTINGS
+
+Config.lua
+Core.lua
