@@ -6,6 +6,7 @@ local UIConfig
 
 function Config:Toggle()
   local menu = UIConfig or Config:CreateMenu()
+  UIConfig.macroText:SetText("/click SRT_totem1\n/click SRT_totem2\n/click SRT_totem3\n/click SRT_totem4")
   menu:SetShown(not menu:IsShown())
 end
 
